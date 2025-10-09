@@ -12,8 +12,8 @@
 ______________
 
 Для запуска приложения необходимо установить следующие библиотеки:
-
-</code> numpy
+'''
+numpy
 
 librosa
 
@@ -23,8 +23,8 @@ seaborn
 
 matplotlib
 
-PyQT5 </code>
-
+PyQT5 
+'''
 _________________
 
 При первом запуске приложения нужно будет обучить модель - для этого нужно скачать датасет RAVDESS - https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
